@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testing
+=======
+FROM GITHUB
+>>>>>>> 88f66db (Fix merge conflict in one.txt)
