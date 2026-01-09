@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+FROM GITHUB
+>>>>>>> 06d915f82cf1146cb85ee5ba5656e31f8b7a4bb8
 TEST
