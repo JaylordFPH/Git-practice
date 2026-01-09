@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-Testing
-=======
-FROM GITHUB
-<<<<<<< HEAD
->>>>>>> 88f66db (Fix merge conflict in one.txt)
-=======
 TEST
->>>>>>> 06d915f (TEST)
